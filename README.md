@@ -7,7 +7,10 @@ College level AI (Artificial Intelligence) books
 - "Introduction to Algorithms, Fourth Edition" by Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein
 <img src="https://m.media-amazon.com/images/I/41vLer1KbmL._SX258_BO1,204,203,200_QL70_ML2_.jpg" width="600px">
 
-- ""
+- "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron (Autor)"
+<img src="https://m.media-amazon.com/images/P/B08KYN45HF.01._SCLZZZZZZZ_SX500_.jpg" width="600px">
+
+
 
 Asking for ChatGPT: https://chat.openai.com/chat
 
