@@ -1,5 +1,5 @@
 # AI-Books
-College level AI books
+College level AI (Artificial Intelligence) books
 
 Asking for ChatGPT: https://chat.openai.com/chat
 
