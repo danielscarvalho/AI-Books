@@ -2,9 +2,10 @@
 College level AI (Artificial Intelligence) books
 
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
-<img src="https://m.media-amazon.com/images/I/41vLer1KbmL._SX258_BO1,204,203,200_QL70_ML2_.jpg" width="600px">
+<img src="https://m.media-amazon.com/images/I/517eliFnOHL._SX393_BO1,204,203,200_.jpg" width="600px">
 
 - "Introduction to Algorithms, Fourth Edition" by Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein
+<img src="https://m.media-amazon.com/images/I/41vLer1KbmL._SX258_BO1,204,203,200_QL70_ML2_.jpg" width="600px">
 
 - ""
 
