@@ -68,3 +68,7 @@ and bioinformatics.
 
 These books provide a solid foundation for anyone interested in learning about AI at the college level.
 </pre>
+
+Additional References:
+
+- https://www.analyticsinsight.net/top-12-books-on-artificial-intelligence/
