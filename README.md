@@ -19,6 +19,10 @@ College level AI (Artificial Intelligence) books
 - "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)" by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani"
 <img src="https://m.media-amazon.com/images/I/41RgG05lZaL.jpg" width="400px">
 
+- "Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python"
+by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, Dmytro Dzhulgakov"
+<img src="https://m.media-amazon.com/images/I/61sbnQXOn1L.jpg" width="400px">
+
 - "What Is ChatGPT Doing... and Why Does It Work?" by Stephen Wolfram
 <img src="https://m.media-amazon.com/images/I/71Ve3AUJO+L.jpg" width="400px">
 
