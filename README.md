@@ -16,7 +16,7 @@ College level AI (Artificial Intelligence) books
 - "Essential Math for AI: Next-Level Mathematics for Efficient and Successful AI Systems" by Hala Nelson
 <img src="https://m.media-amazon.com/images/P/1098107632.01._SCLZZZZZZZ_SX500_.jpg" width="600px">
 
-
+<hr>
 Asking for ChatGPT: https://chat.openai.com/chat
 
 <pre>
