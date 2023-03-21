@@ -3,7 +3,7 @@ College level AI books
 
 Asking for ChatGPT: https://chat.openai.com/chat
 
-```
+<pre>
 There are many excellent books on artificial intelligence (AI) at the college level, but here are some highly recommended ones:
 
 "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig - This is a classic textbook on AI that covers a wide range of topics, including problem-solving, knowledge representation, natural language processing, machine learning, and robotics.
@@ -17,4 +17,4 @@ There are many excellent books on artificial intelligence (AI) at the college le
 4. "Probabilistic Graphical Models: Principles and Techniques" by Daphne Koller and Nir Friedman - This book is a great resource for learning about graphical models, which are a powerful tool for modeling complex systems. It covers the theory and algorithms for probabilistic graphical models, as well as practical applications in fields such as computer vision, natural language processing, and bioinformatics.
 
 These books provide a solid foundation for anyone interested in learning about AI at the college level.
-```
+</pre>
