@@ -10,6 +10,8 @@ College level AI (Artificial Intelligence) books
 - "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron (Autor)"
 <img src="https://m.media-amazon.com/images/I/51GcXOrWROL._SX379_BO1,204,203,200_.jpg" width="600px">
 
+- "Introduction to Machine Learning" by Etienne Bernard
+<img src="https://m.media-amazon.com/images/P/1579550487.01._SCLZZZZZZZ_SX500_.jpg" width="600px">
 
 
 Asking for ChatGPT: https://chat.openai.com/chat
