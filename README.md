@@ -16,6 +16,9 @@ College level AI (Artificial Intelligence) books
 - "Essential Math for AI: Next-Level Mathematics for Efficient and Successful AI Systems" by Hala Nelson
 <img src="https://m.media-amazon.com/images/P/1098107632.01._SCLZZZZZZZ_SX500_.jpg" width="400px">
 
+- "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)" by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani"
+<img src="https://m.media-amazon.com/images/I/41RgG05lZaL.jpg" width="400px">
+
 - "What Is ChatGPT Doing... and Why Does It Work?" by Stephen Wolfram
 <img src="https://m.media-amazon.com/images/I/71Ve3AUJO+L.jpg" width="400px">
 
