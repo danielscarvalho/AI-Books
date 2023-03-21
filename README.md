@@ -1,5 +1,8 @@
 # AI-Books
-College level AI (Artificial Intelligence) books
+College-level AI (Artificial Intelligence) books:
+
+> With the recent hype of ChatGPT, we can note the rise of AI (artificial intelligence) "specialists"!!
+> Here is my suggestion of college-level books to gain knowledge in AI:
 
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
 <img src="https://m.media-amazon.com/images/I/517eliFnOHL._SX393_BO1,204,203,200_.jpg" width="400px">
