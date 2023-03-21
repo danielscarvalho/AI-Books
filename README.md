@@ -21,6 +21,7 @@ College level AI (Artificial Intelligence) books
 
 
 <hr>
+
 Asking for ChatGPT: https://chat.openai.com/chat
 
 <pre>
