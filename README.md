@@ -32,6 +32,9 @@ by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, Dmytro Dzhulgakov"
 - "What Is ChatGPT Doing... and Why Does It Work?" by Stephen Wolfram
 <img src="https://m.media-amazon.com/images/I/71Ve3AUJO+L.jpg" width="400px">
 
+- "The Book of Why: The New Science of Cause and Effect" por Judea Pearl, Dana MacKenzie
+<img src="https://m.media-amazon.com/images/I/51novmlqkLL.jpg" width="400px">
+
 - "Artificial Superintelligence: A Futuristic Approach" by Roman V. Yampolskiy
 <img src="https://m.media-amazon.com/images/P/B010ACWEG0.01._SCLZZZZZZZ_SX500_.jpg" width="400px">
 
