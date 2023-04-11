@@ -29,6 +29,9 @@ College-level AI (Artificial Intelligence) books:
 by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, Dmytro Dzhulgakov"
 <img src="https://m.media-amazon.com/images/I/61sbnQXOn1L.jpg" width="400px">
 
+- "Machine Learning Fundamentals: Use Python and scikit-learn to get up and running with the hottest developments in machine learning" by Hyatt Saleh
+<img src="https://m.media-amazon.com/images/I/71ZL471ZzaL.jpg" width="400px">
+
 - "What Is ChatGPT Doing... and Why Does It Work?" by Stephen Wolfram
 <img src="https://m.media-amazon.com/images/I/71Ve3AUJO+L.jpg" width="400px">
 
