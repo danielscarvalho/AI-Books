@@ -41,7 +41,7 @@ by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, Dmytro Dzhulgakov"
 - "Artificial Superintelligence: A Futuristic Approach" by Roman V. Yampolskiy
 <img src="https://m.media-amazon.com/images/P/B010ACWEG0.01._SCLZZZZZZZ_SX500_.jpg" width="400px">
 
-Machine Learning: A First Course for Engineers and Scientists, 2022 by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B Schön
+- Machine Learning: A First Course for Engineers and Scientists, 2022 by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B Schön
 <img src="https://m.media-amazon.com/images/I/51xh3vekiTL.jpg" width="400px">
 
 <hr>
